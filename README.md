@@ -1,7 +1,7 @@
 # Growth mindset
 
 **What is Growth mindset?**
-It's a thinking way that said that you can sucess and learn if you work hard and hvae passion
+It's a thinking way that said that you can success and learn if you work hard and hvae passion
 
 
  **How to keep yourself in a growth mindse**
