@@ -6,10 +6,9 @@
  **How to keep yourself in a growth mindse**
  
 1-Trust yourself
-
 2-Search the tools help you to learn 
-
 3-Be patience
+
 >Grab your growth mindset and get back in the saddle with these growth mindset quotes to keep you on track after a disappointment.
 
 
