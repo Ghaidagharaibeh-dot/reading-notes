@@ -1,10 +1,12 @@
 # Growth mindset
 
-**Growth mindset**:It's a thinking way that say you can learn any think you need if you work hard, have a passion 
+**What is Growth mindset? **
+It's a thinking way that say you can learn any think you need if you work hard, have a passion 
 
 
  **How to keep yourself in a growth mindse**
- 1-Trust yourself
+ 
+1-Trust yourself    
 2-Search the tools help you to learn 
 3-Be patience
 
