@@ -15,4 +15,4 @@
 ![Growth mindset](https://miro.medium.com/max/1000/1*Vj3mr3m4aZHN5OHAfrgJ8w.jpeg)
 
 
-To read more about *Growth **mindset** through this link [Growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+To read more about Growth mindset  through this link [GM](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
