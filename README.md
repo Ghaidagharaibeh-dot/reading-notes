@@ -4,8 +4,7 @@
 
 
  **How to keep yourself in a growth mindse**
- 
-1-Trust yourself
+ 1-Trust yourself
 2-Search the tools help you to learn 
 3-Be patience
 
