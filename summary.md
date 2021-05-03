@@ -8,7 +8,7 @@ The last thing we learn what is the github (it's website to save cods and open s
 Styling text, links, images, quotes, lists, create themes for our page ,modify  commit changes and save change.
 There is some markdown we used in Github
 *text* to create bold text style
-! [text ] (images links )  to add images
+! [text] (images links )  to add images
 create quote
 
 *Note text work between markers meaning the text you want to write **
