@@ -1,4 +1,3 @@
-
 # Summary of read 3
 ## Wireframing
  Its a way to define and plan the information
