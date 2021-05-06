@@ -5,9 +5,8 @@ There are four logical operators in JavaScript: || (OR), && (AND), ! (NOT. there
 
 | Operator      | Name |Description|
 | ----------- | ----------- |------|
-| &&   | Logical and	      |Returns true if both statements are true
- | 
-| اا  | Logical or	      |Returns true if one of the statements is true|
+| &&   | Logical and	      |Returns true if both statements are true | 
+| اا   | Logical or	      |Returns true if one of the statements is true|
 |!|Logical not	|Reverse the result, returns false if the result is true
 # Loops
 ### FOR and WHILE
