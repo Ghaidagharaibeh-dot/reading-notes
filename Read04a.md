@@ -1,6 +1,5 @@
 # JavaScript 
 
-![JS](files/Users/jzhang/Desktop/Isolated.png)
 
 JavaScript JavaScript is one of the 3 languages all web developers learned,it used to program the behavior of web pages.
 binary and unary operators, and one special ternary operator, the conditional operator. 
@@ -75,7 +74,7 @@ else if (condition){code}
    ..
    ..
    ..
-   
+
    else {}
    ## Console 
    using to test the code or to see the error 
