@@ -24,7 +24,7 @@
 | Type     | subject  |
 | ----------- | ----------- |
 | 1      | read01   |
-|2|read02|
+|2|[read02](/read02.md)|
 |3|read03|
 |4|read04|
 |5|read05|
