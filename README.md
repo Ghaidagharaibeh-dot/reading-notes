@@ -5,6 +5,7 @@
 *this website like my referance to creat  notes*
 
 
+
 # Code 102 Reading Notes
 
 | Type     | subject  |
@@ -23,7 +24,7 @@
 
 | Type     | subject  |
 | ----------- | ----------- |
-| 1      | read01   |
+| 1      | [read01](/read01.md)   |
 |2|[read02](/read02.md)|
 |3|read03|
 |4|read04|
