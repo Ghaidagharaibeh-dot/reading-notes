@@ -1,8 +1,67 @@
+# Images
+
+To add an image into the page
+you need to use an *img* tage
+element. This is an empty
+element (which means there is
+no closing tag). It must carry the
+following two attributes:
+- src
+This tells the browser where
+it can find the image file. This
+will usually be a relative URL
+pointing to an image on your
+own site. 
+- alt
+This provides a text description
+of the image which describes the
+image if you cannot see it.
+- title
+You can also use the title
+attribute with the <img> element
+to provide additional information
+about the image. Most browsers
+will display the content of this
+attribute in a tootip when the
+user hovers over the image.
+
+
+
+# color
+## property
+### color
+- rgb values
+These express colors in terms
+of how much red, green and
+blue are used to make it up. For
+example: rgb(100,100,90)
+ - hex codes
+These are six-digit codes that
+represent the amount of red,
+green and blue in a color,
+preceded by a pound or hash #
+sign. For example: #ee3e80
+- color names
+There are 147 predefined color
+names that are recognized
+by browsers. For example:
+DarkCyan
+-hue
+This is expressed as an angle
+(between 0 and 360 degrees).
+- saturation
+This is expressed as a
+percentage.
+- lightness
+This is expressed as a
+percentage with 0% being white,
+50% being normal, and 100%
+being black.
 # Text 
 
 ## property 
 
-## Text-transform 
+### Text-transform 
 
 The text-transform property
 is used to change the case of

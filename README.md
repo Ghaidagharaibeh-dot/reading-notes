@@ -27,8 +27,8 @@
 | 1      | [read01](/read01.md)   |
 |2|[read02](/read02.md)|
 |3|[read03](/read03.md)|
-|4|read04|
-|5|read05|
+|4|[read04](/readtues.md)|
+|5|[read05](/read205.md)|
 |6|read06|
 |7|read07|
 |8|read08|
