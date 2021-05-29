@@ -29,7 +29,7 @@
 |3|[read03](/read03.md)|
 |4|[read04](/readtues.md)|
 |5|[read05](/read205.md)|
-|6|read06|
+|6|[read05b](/reas205b.md)|
 |7|read07|
 |8|read08|
 |9|read09|
