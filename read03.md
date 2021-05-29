@@ -114,4 +114,37 @@ seclor
 
 There are alot of value to changr width style coler of boder and how to desgin margin and pandding  you can see ib book from 312-319
 
+# 322-329
+# JS 
+A script is made up of a series of statements. Each
+statement is like a step in a recipe. 
+Variables are used to temporarily store pieces of
+information used in the script. 
+# Decisions and Loops
+## DECISIONS
+Using the results of
+evaluations, you can
+decide which path your
+script should go down. 
+## LOOPS
+There are also many
+occasions where you will
+want to perform the same
+set of steps repeatedly. 
+
+Conditional statements allow your code to make
+decisions about what to do next.
+Comparison operators (===, ! ==, ==, ! =, <, >, <=, =>)
+are used to compare two operands.
+Logical operators allow you to combine more than one
+set of comparison operators.
+if ... else statements allow you to run one set of code
+if a condition is true, and another if it is false.
+switch statements allow you to compare a value
+against possible outcomes (and also provides a default
+option if none match).
+Data types can be coerced from one type to another.
+All values evaluate to either truthy or falsy.
+There are three types of loop: for, while, and
+do ... while. Each repeats a set of statements
 
