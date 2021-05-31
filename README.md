@@ -31,7 +31,7 @@
 |5|[read05](/read205.md)|
 |6|[read05b](/reas205b.md)|
 |7|[read0206](/read206.md)|
-|8|read08|
+|8|[read207](/read207.md)|
 |9|read09|
 |10|read10|
 |11|read11|
