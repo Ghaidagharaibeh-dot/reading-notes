@@ -17,7 +17,7 @@ potential errors gracefully.
 To find the source of an error, it helps to know how scripts are processed.
 The order in which statements are executed can be complex; some tasks
 cannot complete until another statement or function has been run: 
- ## HOW EVENTS TRIGGER AVASCRIPT CODE 
+ ## How events trigger avascrtpt  
  When the user interacts with the HTML on a web page, there are three
 steps involved in getting it to trigger some JavaScript code.
 Together these steps are known as event handling. 
@@ -45,7 +45,7 @@ W hen the event occurs, on a
 specified element, it will trigger
 a function. This may be a named
 or an anonymous function. 
-## e how event handling can be used to provide feedback to users filling in a registration form.
+##  How event handling can be used to provide feedback to users filling in a registration form.
 - Select element
 
 The element that users are
