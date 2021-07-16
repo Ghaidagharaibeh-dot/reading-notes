@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+footer{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 50px;
+}
+
+.card {
+    border: rgb(32, 31, 32) solid 5px;
+    display: inline-block;
+max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    border-radius: 25px;
+  }
+
+ 
+ #img{
+border-radius: 50%;
+
+ }
+  
+  #name {
+      font-size: x-large;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  #title{
+      font-family:Georgia, 'Times New Roman', Times, serif ;
+
+  }
+  button {
+   
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: rgb(112, 128, 144);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    border-radius: 25px;
+    box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.4);
+
+  }
+
+  
