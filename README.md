@@ -46,7 +46,7 @@
 # Code 301 - Intermediate Software Development
 | Type     | subject  |
 | ----------- | ----------- |
-| 1| [read301](/)   |
+| 1| [read301](/read301.md)   |
 |2|[read302](/)|
 |3|[read303](/)|
 |4|[read304](/)|
