@@ -51,7 +51,7 @@
 |3|[read303](/read303.md)|
 |4|[read304](/read304.md)|
 |5|[read305](/read305.md)|
-|6|[read306](/)|
+|6|[read306](/read306.md)|
 |7|[read0307](/)|
 |8|[read308](/)|
 |9|[read309](/)|
