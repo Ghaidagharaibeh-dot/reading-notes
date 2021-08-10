@@ -12,4 +12,4 @@ The client has authorized or doesn’t need to authorize itself, but still has n
 ## What is middleware?
 software that provides common services and capabilities to applications
 ## What does app.use(express.json()) do?
-calls json which is a method that is built inside the express, it converts the objects to arrays or strings
+calls json which is a method that is built inside the express, it converts the objects to arrays or strings.
