@@ -65,11 +65,11 @@
 
 # Code 401 - Advanced Software Development
 
-| Type     | subject  |
+| Assignment | The Title	  |
 | ----------- | ----------- |
-| 1| [read401](/read401.md)   |
-| 2| [read402](/read402.md)   |
-| 3| [Primitives,Maps,File](/read403.md)   |
- |4 | [ OOP](/read404.md)|
- |4 | [ Big O: Analysis of Algorithm Efficiency](/read405.md)|
+|Read 01| [Java Basics](/read401.md)   |
+|Read 02| [ Arrays, Loops, Imports](/read402.md)   |
+|Read 03| [Primitives,Maps,File](/read403.md)   |
+ |Read 04 | [ OOP](/read404.md)|
+ |Read 05| [ Big O: Analysis of Algorithm Efficiency](/read405.md)|
 
