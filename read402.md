@@ -1,8 +1,7 @@
 # Packages and Import
-Package is a directory. Java classes can be grouped together in packages. A package name is the same as the directory (folder) name which contains the .java files. You declare packages when you define your Java program, and you name the packages you want to use from other libraries in an import statement.
+Package is a directory or folder have clasess ,the package declare when you create java app.
 
 ## Java Imports 
-
 Common imports
 
 - import java.awt.*; - Common GUI elements
@@ -22,16 +21,15 @@ Common imports
 
 ## For loop 
 
-A for loop is a control structure that allows us to repeat certain operations by incrementing and evaluating a loop counter.
+ Repeat certain operations by incrementing and evaluating a loop counter.
 
 ## While Loop
 
-The while loop is Java's most fundamental loop statement. It repeats a statement or a block of statements while its controlling Boolean-expression is true.
+Is a loop  to repeats a block of statements while  controlling is true.
 
 ## Do-While Loop
 
-The do-while loop works just like the while loop except for the fact that the first condition evaluation happens after the first iteration of the loop.
-
+The same as the while loop but it execute the first condition wheather the condition is true or false
 ## For-Each loop
 
 Executes a certain block of code with the length of the provided array.
