@@ -72,6 +72,10 @@
 |Read 03| [Primitives,Maps,File](/read403.md)   |
  |Read 04 | [ OOP](/read404.md)|
  |Read 05| [ Big O: Analysis of Algorithm Efficiency](/read405.md)|
-  |Read 06| [ Inheritance and Interfaces](/read406.md)|
+|Read 06| [ Inheritance and Interfaces](/read406.md)|
+|Read 08| [ OO Design](/read408.md)|
+|Read 09| [ WRRC and Java](/read409.md)|
+
+
 
 
