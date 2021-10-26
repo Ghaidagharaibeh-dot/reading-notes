@@ -78,6 +78,8 @@
 |Read 10| [Stacks & Queues](/read410.md)|
 |Read 11| [Spring](/read411.md)|
 |Read 12| [Spring RESTful Routing & Static Files](/read412.md)|
+|Read 13| [Related Resources and Integration Testing](/read412.md)|
+
 
 
 
