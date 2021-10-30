@@ -1,22 +1,26 @@
  # Spring Authentication
 
  
- ### Difference between authentication and authorization.
+ ### authentication Vs authorization.
 
-Authentication : is the process of knowing the identity of the user. also known as access control.
+Authentication : means Who are you is the process of knowing the identity of the user(access control)
 
-Authorization (access control) : is the process of what that particular user is allowed to access or do in the web application.
+Authorization : means What are you allowed, allowed to access or do in the web application.
 
 
 ### Authentication
 
-In spring the main interface for authentication is AuthenticationManger which has only one method which is authenticate which can be used to do 3 main things:
+The application needs to verify if the user is who he/she claims to be, typically done with a username and password check.
 
-Return an Authentication with value of authenticated = true if it can verify that the input represents a valid principle.
+For Authentication in spring we use the AuthenticationManager interface which has only one method:
 
-Throw an AuthenticationException if the input represents an invalid principle.
+ authenticate  can be used to do 3 main things:
 
-Return null if it can’t decide.
+- Return an Authentication 
+
+- Throw an AuthenticationException if the input represents an invalid principle.
+
+- Return null if it can’t decide.
 
 ```
 public interface AuthenticationManager {
@@ -26,10 +30,8 @@ public interface AuthenticationManager {
 }
 ```
 
-![](https://raw.githubusercontent.com/spring-guides/top-spring-security-architecture/main/images/authentication.png)
 
-
-Customizing Authentication Managers
+### Customizing Authentication Managers
 
 Spring security provides a lot of configuration helpers to quickly and flexibly get the job done.
 
@@ -51,14 +53,16 @@ public class ApplicationSecurity extends WebSecurityConfigurerAdapter {
 }
 ```
 
+### Web Security
+The web Security in Spring is based on Sevlet Filters. It consists of several layers, each layer has a certain function when receiving a single HTTP request. For example, single HTTP request would:
 
-### Authorization or Access Control
+Go through a LoginMethodFilter.
 
-Once we authenticate the user to be able to access the website, now we need to limit the access of that particular user to the website content.
+Then go through an AuthenticationFilter.
 
-For an example a generic user access to the website is different than the administrative access.
+After that go through an AuthorizationFilter.
 
-To do that we use AccessDecisionManager as out main strategy.
+Finally hit the servlet.
 
 
 
