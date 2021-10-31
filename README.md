@@ -80,7 +80,9 @@
 |Read 12| [Spring RESTful Routing & Static Files](/read412.md)|
 |Read 13| [Related Resources and Integration Testing](/read413.md)|
 |Read 14| [Trees ](/read414.md)|
-|Read 15| [Spring Authentication ](/read416.md)|
+|Read 16| [Spring Authentication ](/read416.md)|
+|Read 17| [Spring Boot and OAuth2](/read417.md)|
+
 
 
 
