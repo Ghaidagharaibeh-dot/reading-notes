@@ -1,31 +1,15 @@
-# Real time messaging with websockets
-The WebSocket protocol is one of the ways to make The application handle real-time messages.
+# Spring and Sockets
 
-The WebSocket protocol allows you to implement bidirectional communication between applications. It is important to know that HTTP is used only for the initial handshake. After it happens, the HTTP connection is upgraded to a newly opened TCP/IP connection that is used by a WebSocket.
+### Using WebSocket to build an interactive web application
+Websocket is basically a thin layer that works over TCP connections, by using what is knows as STOMP or Streaming Text Oriented Messaging Protocol in order to send and receive messages from and to the server.In Spring to create a websocket backend server we use Stomp-Websocket which is an external library that helps us to do so.In the front end we use SockJS client to send and receive messages to the backend server.
 
-The WebSocket specification allows using of sub-protocols that operate on a higher, application level. One of them, supported by the Spring Framework, is STOMP.
+### Get started
 
-To build the WebSocket server-side, we will utilize the Spring Boot framework which significantly speeds up the development of standalone and web applications in Java. Spring Boot includes the spring-WebSocket module
+- From https://start.spring.io select gradle and add Websocket dependency then click on generate. or Download and unzip the source repository, or clone it using Git: git clone https://github.com/spring-guides/gs-messaging-stomp-websocket.git
 
-# Implementing the WebSocket server-side with Spring Boot:
-First, we should add these Dependencies:
-implementation 'org.webjars:webjars-locator-core'
-implementation 'org.webjars:sockjs-client:1.0.2'
-implementation 'org.webjars:stomp-websocket:2.3.3'
-implementation 'org.webjars:bootstrap:3.3.7'
-implementation 'org.webjars:jquery:3.1.1-1'
-Then, we can configure Spring to enable WebSocket and STOMP messaging.
+- cd into gs-messaging-stomp-websocket/initial
 
-Implement a controller that will handle user requests. It will broadcast received message to all users subscribed to a given topic.
+- Jump ahead to Create a Resource Representation Class.
 
-Configure Spring for STOMP messaging
-
-Annotat a WebSocketConfig by @Configuration to indicate that it is a Spring configuration class.
-
-Also annotated with @EnableWebSocketMessageBroker to enables WebSocket message handling, backed by a message broker.
-
-Implementing the WebSocket Client
-Autowire Spring STOMP client.
-
-Open a connection.
+- When you finish, you can check your results against the code in gs-messaging-stomp-websocket/complete.
 
