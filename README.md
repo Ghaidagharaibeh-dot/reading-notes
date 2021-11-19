@@ -84,7 +84,11 @@
 |Read 17| [Spring Boot and OAuth2](/read417.md)|
 |Read 18| [Web App Security](/read418.md)|
 |Read 19| [Spring and Sockets](/read419.md)|
-|Read 20| [Android Fundamentals](read420.md)|
+|Read 26| [Android Fundamentals](read420.md)|
+|Read 27| [Intents, Activities, and SharedPreferences](read427.md)|
+|Read 28| [RecyclerView](read428.md)|
+
+
 
 
 
