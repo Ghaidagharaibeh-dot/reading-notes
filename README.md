@@ -88,6 +88,8 @@
 |Read 27| [Intents, Activities, and SharedPreferences](read427.md)|
 |Read 28| [RecyclerView](read428.md)|
 |Read 29| [Room](read429.md)|
+|Read 30| [Hash Tables](read430.md)|
+
 
 
 
