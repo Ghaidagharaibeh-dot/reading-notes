@@ -91,7 +91,9 @@
 |Read 30| [Hash Tables](read430.md)|
 |Read 31| [Espresso](read431.md)|
 |Read 32| [Serverless and Amplify](read432.md)|
-|Read 33| [GraphQL @connection](read432.md)|
+|Read 33| [GraphQL @connection](read433.md)|
+|Read 34| [Monetization](read434.md)|
+
 
 
 
