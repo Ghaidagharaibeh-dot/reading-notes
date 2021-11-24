@@ -93,6 +93,8 @@
 |Read 32| [Serverless and Amplify](read432.md)|
 |Read 33| [GraphQL @connection](read433.md)|
 |Read 34| [Monetization](read434.md)|
+|Read 35| [Monetization](read435.md)|
+
 
 
 
