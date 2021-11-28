@@ -94,7 +94,9 @@
 |Read 33| [GraphQL @connection](read433.md)|
 |Read 34| [Monetization](read434.md)|
 |Read 35| [Graph](read435.md)|
-|Read 35| [Graph](read435.md)|
+|Read 36| [Amplify and Cognito](read436.md)|
+|Read 37| [Amazon S3](read437.md)|
+
 
 
 
