@@ -96,7 +96,9 @@
 |Read 35| [Graph](read435.md)|
 |Read 36| [Amplify and Cognito](read436.md)|
 |Read 37| [Amazon S3](read437.md)|
-|Read 37| [Notifications ](read438.md)|
+|Read 38| [Notifications ](read438.md)|
+|Read 39| [Amplify and Kinesis ](read439.md)|
+
 
 
 
